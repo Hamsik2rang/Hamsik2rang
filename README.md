@@ -1,4 +1,4 @@
-# 임용식(Yongsik Im, Hamsik2rang)  
+# 임용식(Im Yongsik, Hamsik2rang)  
 ### Hi there 👋
 열심히 공부하려고 노력하고 있습니다.😄  
 I'm doing all my best to Study.😄  

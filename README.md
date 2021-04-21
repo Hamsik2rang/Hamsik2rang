@@ -10,7 +10,7 @@ I'm doing all my best to Study.😄
 * Math & Physics for Game Dev
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamsik2rang&count_private=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamsik2rang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamsik2rang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  -->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lvhi0607)](https://solved.ac/lvhi0607)
 
 <!--

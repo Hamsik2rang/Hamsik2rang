@@ -8,6 +8,7 @@ I'm doing all my best to Study.😄
 * Computer Graphics
 * Game Engine (Unity & Unreal Engine)
 * Math & Physics for Game Dev
+* CSE(Computer Architecture, Operation System, etc.)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamsik2rang&count_private=true)  
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamsik2rang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  -->

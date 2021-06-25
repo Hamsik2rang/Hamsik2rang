@@ -6,6 +6,7 @@ I'm doing all my best to Study.😄
 ### Currently Learning🌱  
 * Modern C++
 * Computer Graphics
+* Shader Programming
 * Game Engine (Unity & Unreal Engine)
 * Math & Physics for Game Dev
 * CSE(Computer Architecture, Operating System, etc.)

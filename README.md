@@ -5,10 +5,10 @@ I'm doing all my best to Study.😄
 
 ### Currently Learning🌱  
 * Modern C++
-* ~~Computer Graphics (and API like openGL, DirectX12, etc.)~~
-* ~~Shader Programming~~
-* ~~Game Engine (Unity & Unreal Engine)~~
-* ~~Math & Physics for Game Dev~~
+* Computer Graphics (and API like openGL, DirectX, etc.)
+* Shader Programming
+* Game Engine (Unity & Unreal Engine)
+* Math & Physics for Game Dev
 * CSE(Computer Architecture, Algorithm, Operating System, etc.)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamsik2rang&count_private=true)  

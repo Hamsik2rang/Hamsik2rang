@@ -13,7 +13,7 @@ I'm doing all my best to Study.😄
 * CSE(Computer Architecture, Algorithm, Operating System, etc.)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamsik2rang&count_private=true)  
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamsik2rang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamsik2rang&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lvhi0607)](https://solved.ac/lvhi0607)
 ### Develope with 😄
 ![C](https://img.shields.io/badge/-C-000000?logo=C&style=flat)  ![C#](https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat) ![C++](https://img.shields.io/badge/-C++-000000?logo=C%2B%2B&style=flat)  ![Python](https://img.shields.io/badge/-Python-00498c?logo=Python&style=flat)  

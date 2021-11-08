@@ -4,7 +4,7 @@
 I'm doing all my best to Study.😄  
 
 ### Currently Learning🌱  
-* Modern C++
+* Modern C++ / C#
 * Computer Network
 * Computer Graphics (and API like openGL, DirectX, etc.)
 * Shader Programming

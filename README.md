@@ -1,5 +1,5 @@
 # 임용식(Im Yongsik, Hamsik2rang)  
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=hamsik2rang.visitor-badge&left_text=Today's%20Visitors)
+
 ### Hi there 👋  
 열심히 공부하려고 노력하고 있습니다.😄  
 I'm doing all my best to Study.😄  

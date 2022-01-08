@@ -11,6 +11,7 @@ I'm doing all my best to Study.😄
 * Computer Graphics (and API like OpenGL, DirectX, etc.)
 * Game Engine (Unity & Unreal Engine)
 * Math & Physics for Game Dev
+* Shader Proramming
 
   
 <img src="https://github-profile-trophy.vercel.app/?username=Hamsik2rang&row=2&column=4&theme=onedark">  

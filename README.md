@@ -13,6 +13,7 @@ I'm doing all my best to Study.😄
 * Math & Physics for Game Dev
 * Shader Proramming
 * Socket Programming
+* Deep Learning(just hobby)
   
 <img src="https://github-profile-trophy.vercel.app/?username=Hamsik2rang&row=2&column=4&theme=onedark">  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamsik2rang&theme=onedark">  

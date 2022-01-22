@@ -13,7 +13,6 @@ I'm doing all my best to Study.😄
 * Math & Physics for Game Dev
 * Shader Proramming
 * Socket Programming
-* Deep Learning(just hobby)
   
 <img src="https://github-profile-trophy.vercel.app/?username=Hamsik2rang&row=2&column=4&theme=onedark">  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamsik2rang&theme=onedark">  
@@ -30,7 +29,7 @@ I'm doing all my best to Study.😄
 ![Unity](https://img.shields.io/badge/-Unity-a3a5a7?logo=Unity&style=flat)  
   
 ![OpenGL](https://img.shields.io/badge/-OpenGL-93a9d1?logo=OpenGL&style=flat)
-![TensorFlow](https://img.shields.io/badge/-Tensorflow-ffa048?logo=Tensorflow&style=flat)
+![DirectX](https://img.shields.io/badge/-DirectX-93a9d1?logo=DirectX&style=flat)
 
 <!--
 **Hamsik2rang/Hamsik2rang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

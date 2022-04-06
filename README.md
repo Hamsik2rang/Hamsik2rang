@@ -1,18 +1,19 @@
 ## 임용식(Im Yongsik, Hamsik2rang)  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHamsik2rang%2Fhit-counter&count_bg=%237AC4A3&title_bg=%23A2ABB4&icon=&icon_color=%23B8B8B8&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-### Hi there 👋  
+### Hi👋❗  
 열심히 공부하려고 노력하고 있습니다.😄  
 I'm doing all my best to Study.😄  
 
 ### Currently Learning🌱  
 * Modern C++ / C#
-* Computer Network
 * CSE(Computer Architecture, Algorithm, Operating System, etc.)
-* Computer Graphics (and API like OpenGL, DirectX, etc.)
-* Game Engine (Unity & Unreal Engine)
+* Computer Graphics (and API like OpenGL, DirectX, Vulkan, etc.)
+* Game Engine (Unity & Unreal Engine) and it's architecture
 * Math & Physics for Game Dev
 * Shader Proramming
+* Computer Network
 * Socket Programming
+
   
 <img src="https://github-profile-trophy.vercel.app/?username=Hamsik2rang&row=2&column=4&theme=onedark">  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamsik2rang&theme=onedark">  

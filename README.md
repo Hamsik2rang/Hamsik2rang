@@ -11,8 +11,8 @@ I'm doing all my best to Study.😄
 * Game Engine (Unity & Unreal Engine) and it's architecture
 * Math & Physics for Game Dev
 * Shader Proramming
-* Computer Network
-* Socket Programming
+<!--* Computer Network
+* Socket Programming-->
 
   
 <img src="https://github-profile-trophy.vercel.app/?username=Hamsik2rang&row=2&column=4&theme=onedark">  

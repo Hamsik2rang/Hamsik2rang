@@ -10,7 +10,7 @@ I'm doing all my best to Study.😄
 * Computer Graphics (and API like OpenGL, DirectX, Vulkan, etc.)
 * Game Engine (Unity & Unreal Engine) and it's architecture
 * Math & Physics for Game Dev
-* Shader Proramming
+* Shader Programming
 <!--* Computer Network
 * Socket Programming-->
 

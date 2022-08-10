@@ -1,6 +1,7 @@
 ## 임용식(Im Yongsik, Hamsik2rang)  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHamsik2rang%2Fhit-counter&count_bg=%237AC4A3&title_bg=%23A2ABB4&icon=&icon_color=%23B8B8B8&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-### Currently Learning🌱  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHamsik2rang%2Fhit-counter&count_bg=%237AC4A3&title_bg=%23A2ABB4&icon=&icon_color=%23B8B8B8&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)  
+
+### Currently Learning  
 * Modern C++ / C#
 * CSE(Computer Architecture, Algorithm, Operating System, etc.)
 * Computer Graphics (and API like OpenGL, DirectX, Vulkan, etc.)
@@ -10,7 +11,11 @@
 <!--* Computer Network
 * Socket Programming-->
 
-  
+### Currently Developing
+* [Kepler](https://github.com/hamsik2rang/kepler) - Game Engine based on Windows 
+* [KeplerMath](https://github.com/hamsik2rang/keplermath) - Math library for Kepler Engine
+* [Software Renderer](https://github.com/hamsik2rang/software-renderer) - 3D Software Renderer
+ 
 <!--<img src="https://github-profile-trophy.vercel.app/?username=Hamsik2rang&row=2&column=4&theme=onedark">-->  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamsik2rang&theme=onedark">  
 <!--<img src="https://github-readme-stats.vercel.app/api?username=Hamsik2rang&show_icons=true&count_private=true&theme=onedark">-->  
@@ -19,14 +24,18 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lvhi0607)](https://solved.ac/lvhi0607)
 
-### Develope with 😄
+### More about
+[**Blog**](https://hamsik2rang.github.io) / [**Youtube**](https://www.youtube.com/channel/UCiAe__zoEwjE4s9f5YPKO0w)
+
+<!--
+### Develope with
 ![C](https://img.shields.io/badge/-C-000000?logo=C&style=flat)  ![C#](https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat) ![C++](https://img.shields.io/badge/-C++-000000?logo=C%2B%2B&style=flat)  ![Python](https://img.shields.io/badge/-Python-00498c?logo=Python&style=flat)  
   
 ![UnrealEngine](https://img.shields.io/badge/-UnrealEngine-a3a5a7?logo=UnrealEngine&style=flat)
 ![Unity](https://img.shields.io/badge/-Unity-a3a5a7?logo=Unity&style=flat)  
   
 ![OpenGL](https://img.shields.io/badge/-OpenGL-93a9d1?logo=OpenGL&style=flat)
-![DirectX](https://img.shields.io/badge/-DirectX-93a9d1?logo=DirectX&style=flat)
+![DirectX](https://img.shields.io/badge/-DirectX-93a9d1?logo=DirectX&style=flat) -->
 
 <!--
 **Hamsik2rang/Hamsik2rang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,10 @@
 ## 임용식(Im Yongsik, Hamsik2rang)  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHamsik2rang%2Fhit-counter&count_bg=%237AC4A3&title_bg=%23A2ABB4&icon=&icon_color=%23B8B8B8&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)  
+### Hello
+My name is Im Yongsik.  
+
+I'm interested in Computer Graphics, Video Game Development, and GPU Programming.  
+and I program using C, C++, C#, and Python. In particular, mainly using C++.
 
 ### Currently Learning  
 * Modern C++ / C#
@@ -12,9 +17,9 @@
 * Socket Programming-->
 
 ### Currently Developing
-* [Kepler](https://github.com/hamsik2rang/kepler) - Game Engine based on Windows 
-* [KeplerMath](https://github.com/hamsik2rang/keplermath) - Math library for Kepler Engine
-* [Software Renderer](https://github.com/hamsik2rang/software-renderer) - 3D Software Renderer
+* [Kepler](https://github.com/hamsik2rang/kepler) - Game Engine based on Windows (C, C++, Python, DirectX)
+* [KeplerMath](https://github.com/hamsik2rang/keplermath) - Math library for Kepler Engine (C, C++)
+* [Software Renderer](https://github.com/hamsik2rang/software-renderer) - 3D Software Renderer (C, C++)
  
 <!--<img src="https://github-profile-trophy.vercel.app/?username=Hamsik2rang&row=2&column=4&theme=onedark">-->  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamsik2rang&theme=onedark">  

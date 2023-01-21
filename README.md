@@ -3,7 +3,7 @@
 ### Hello
 My name is Im Yongsik.  
 
-I'm interested in Computer Graphics, Video Game Development, and GPU Programming.  
+I'm interested in Computer Graphics, Game Engine Development, and GPU Programming.  
 and I program using C, C++, C#, and Python. In particular, mainly using C++.
 
 ### Currently Learning  

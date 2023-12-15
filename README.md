@@ -9,7 +9,7 @@ and I program using C, C++, C#, and Python. In particular, mainly using C++.
 ### Currently Learning  
 * Modern C++ / C#
 * CSE(Computer Architecture, Algorithm, Operating System, etc.)
-* Computer Graphics (and API like OpenGL, DirectX, Vulkan, etc.)
+* Computer Graphics (and API like OpenGL, DirectX, Vulkan, Metal, etc.)
 * Game Engine (Unity & Unreal Engine) and it's architecture
 * Math & Physics for Game Dev
 * Shader Programming

@@ -22,7 +22,6 @@ and I program using C, C++, C#, and Python. In particular, mainly using C++.
 ### Currently Developing
 * [Kepler](https://github.com/hamsik2rang/kepler) - Game Engine based on Windows (C, C++, Python, DirectX)
 * [KeplerMath](https://github.com/hamsik2rang/keplermath) - Math library for Kepler Engine (C, C++)
-* [Ggum](https://github.com/hamsik2rang/Ggum) - 3D Software Renderer (C, C++, Vulkan)
  
 <!--<img src="https://github-profile-trophy.vercel.app/?username=Hamsik2rang&row=2&column=4&theme=onedark">-->  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamsik2rang&theme=onedark">  

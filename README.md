@@ -6,22 +6,22 @@ My name is Im Yongsik.
 I'm interested in Computer Graphics, Game Engine Development, and GPU Programming.  
 and I program using C, C++, C#, and Python. In particular, mainly using C++.
 
-### Currently Learning  
+<!--### Currently Learning  
 * Modern C++ / C#
 * CSE(Computer Architecture, Algorithm, Operating System, etc.)
 * Computer Graphics (and API like OpenGL, DirectX, Vulkan, Metal, etc.)
 * Game Engine (Unity & Unreal Engine) and it's architecture
 * Math & Physics for Game Dev
 * Shader Programming
-<!--* Computer Network
-* Socket Programming-->
+* Computer Network
+* Socket Programming -->
 
-### Portfolio
-* [School 2020](https://www.youtube.com/watch?v=axyTBol-uYs) - 3D Metaverse campus using Unity & IOCP Server. 2020 KNU Capstone project 1st prize
+<!--### Portfolio
+* [School 2020](https://www.youtube.com/watch?v=axyTBol-uYs) - 3D Metaverse campus using Unity & IOCP Server. 2020 KNU Capstone project 1st prize -->
 
-### Currently Developing
+<!--### Currently Developing
 * [Kepler](https://github.com/hamsik2rang/kepler) - Game Engine based on Windows (C, C++, Python, DirectX)
-* [KeplerMath](https://github.com/hamsik2rang/keplermath) - Math library for Kepler Engine (C, C++)
+* [KeplerMath](https://github.com/hamsik2rang/keplermath) - Math library for Kepler Engine (C, C++) -->
  
 <!--<img src="https://github-profile-trophy.vercel.app/?username=Hamsik2rang&row=2&column=4&theme=onedark">-->  
 <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamsik2rang&theme=onedark">-->  
@@ -32,7 +32,7 @@ and I program using C, C++, C#, and Python. In particular, mainly using C++.
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lvhi0607)](https://solved.ac/lvhi0607)
 
 ### More about
-[**Blog**](https://hamsik2rang.github.io) / [**Youtube**](https://www.youtube.com/channel/UCiAe__zoEwjE4s9f5YPKO0w)
+[**Blog**](https://hamsik2rang.github.io) / [**Youtube**](https://www.youtube.com/channel/UCiAe__zoEwjE4s9f5YPKO0w) / [**LinkedIn**](https://www.linkedin.com/in/yongsik-im-905411203/)
 
 <!--
 ### Develope with

@@ -1,7 +1,7 @@
-## 임용식(Im Yongsik, Hamsik2rang)  
+## 임용식(Yongsik Im, Hamsik2rang)  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHamsik2rang%2Fhit-counter&count_bg=%237AC4A3&title_bg=%23A2ABB4&icon=&icon_color=%23B8B8B8&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)  
 ### Hello
-My name is Im Yongsik.  
+My name is Yongsik Im.  
 
 I'm interested in Computer Graphics, Game Engine Development, and GPU Programming.  
 and I program using C, C++, C#, and Python. In particular, mainly using C++.

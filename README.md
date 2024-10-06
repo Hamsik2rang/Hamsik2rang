@@ -32,7 +32,7 @@ and I program using C, C++, C#, and Python. In particular, mainly using C++.
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lvhi0607)](https://solved.ac/lvhi0607)
 
 ### More about
-[**Blog**](https://hamsik2rang.github.io) / [**Youtube**](https://www.youtube.com/channel/UCiAe__zoEwjE4s9f5YPKO0w) / [**LinkedIn**](https://www.linkedin.com/in/yongsik-im-905411203/)
+[**Blog**](https://brunch.co.kr/@hamsik2rang) / [**Youtube**](https://www.youtube.com/channel/UCiAe__zoEwjE4s9f5YPKO0w) / [**LinkedIn**](https://www.linkedin.com/in/yongsik-im-905411203/)
 
 <!--
 ### Develope with

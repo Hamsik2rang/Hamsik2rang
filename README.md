@@ -1,9 +1,9 @@
 ## 임용식(Yongsik Im, Hamsik2rang)  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHamsik2rang%2Fhit-counter&count_bg=%237AC4A3&title_bg=%23A2ABB4&icon=&icon_color=%23B8B8B8&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)  
 ### Hello
-I'm graphic engineer at Com2us.
-currently I'm developing a game engine using C, C++, Vulkan, Metal, and others.
-I'm interesting in Reat-time Rendering, GPGPU, and Game engine. 
+I'm graphic engineer at Com2us.  
+currently I'm developing a game engine using C, C++, Vulkan, Metal, and others.  
+I'm interesting in Reat-time Rendering, GPGPU, and Game engine.   
 
 <!--### Currently Learning  
 * Modern C++ / C#

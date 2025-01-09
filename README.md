@@ -3,7 +3,7 @@
 ### Hello
 I'm graphic engineer at Com2us.  
 currently I'm developing a game engine using C, C++, Vulkan, Metal, and others.  
-I'm interested in Reat-time Rendering, Game/Game Engine development, GPGPU, and Deep Learning.   
+I'm interested in Real-time Rendering, Game/Game Engine development, GPGPU, and Deep Learning.   
 
 <!--### Currently Learning  
 * Modern C++ / C#

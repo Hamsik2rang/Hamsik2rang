@@ -28,7 +28,7 @@ I've interested in Real-time Rendering, Game/Game Engine development, GPGPU, and
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamsik2rang&theme=onedark&layout=compact&langs_count=5">-->  
 <!--<img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=lvhi0607">-->
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lvhi0607)](https://solved.ac/lvhi0607)
+<!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lvhi0607)](https://solved.ac/lvhi0607)-->
 
 ### More about
 [**Blog**](https://brunch.co.kr/@hamsik2rang) / [**Youtube**](https://www.youtube.com/channel/UCiAe__zoEwjE4s9f5YPKO0w) / [**LinkedIn**](https://www.linkedin.com/in/yongsik-im-905411203/)

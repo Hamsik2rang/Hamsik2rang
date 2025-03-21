@@ -31,9 +31,9 @@ I've interested in Real-time Rendering, Game/Game Engine development, GPGPU, and
 <!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lvhi0607)](https://solved.ac/lvhi0607)-->
 
 ### More about
-[**Blog**](https://brunch.co.kr/@hamsik2rang) / [**Youtube**](https://www.youtube.com/channel/UCiAe__zoEwjE4s9f5YPKO0w) / [**LinkedIn**](https://www.linkedin.com/in/hamsik2rang/)
+[**Blog**](https://brunch.co.kr/@hamsik2rang) / [**LinkedIn**](https://www.linkedin.com/in/hamsik2rang/)
+<!--[**Blog**](https://brunch.co.kr/@hamsik2rang) / [**Youtube**](https://www.youtube.com/channel/UCiAe__zoEwjE4s9f5YPKO0w) / [**LinkedIn**](https://www.linkedin.com/in/hamsik2rang/)
 
-<!--
 ### Develope with
 ![C](https://img.shields.io/badge/-C-000000?logo=C&style=flat)  ![C#](https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat) ![C++](https://img.shields.io/badge/-C++-000000?logo=C%2B%2B&style=flat)  ![Python](https://img.shields.io/badge/-Python-00498c?logo=Python&style=flat)  
   

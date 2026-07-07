@@ -1,8 +1,5 @@
 ## 임용식(Yongsik Im, Hamsik2rang)  
-### Hello
-I'm a Graphic Engineer working at [Com2us](https://com2us.com/).   
-Currently I'm developing a game engine using C, C++, Vulkan, Metal, and others.    
-I've interested in Real-time Rendering, Game/Game Engine development.  
+Interested in Real-time Rendering, Game/Game Engine development.  
 
 <!--### Currently Learning  
 * Modern C++ / C#

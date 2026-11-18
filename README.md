@@ -1,5 +1,5 @@
 ## 임용식(Yongsik Im, Hamsik2rang)  
-Interested in Real-time Rendering, Game/Game Engine development.  
+Interested in Real-time Rendering, Game Engine development.  
 
 <!--### Currently Learning  
 * Modern C++ / C#
